@@ -1,0 +1,6 @@
+﻿add_subdirectory ("lab01_1")
+add_subdirectory ("lab01_2")
+add_subdirectory ("lab01_3")
+add_subdirectory ("lab02_1")
+add_subdirectory ("lab02_2")
+add_subdirectory ("lab02_3")
